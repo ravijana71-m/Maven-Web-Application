@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <urlhttp://43.205.127.92:9980/mithun/repository/amazon-release/</url>
+	      <url>http://43.205.127.92:9980/mithun/repository/amazon-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
